@@ -1232,8 +1232,8 @@
       return teoria;
     })();
 
-  return angular.module('ngTeoria')
-    .provider('Teoria', function() {
+  return angular.module('ngTeoria', [])
+    .factory('Teoria', function() {
       return self;
     }
   );
