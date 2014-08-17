@@ -1232,7 +1232,7 @@
       return teoria;
     })();
 
-  angular.module('ngTeoria')
+  return angular.module('ngTeoria')
     .provider('Teoria', function() {
       return self;
     }
