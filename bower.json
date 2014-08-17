@@ -2,7 +2,7 @@
   "name": "ng-teoria",
   "version": "0.0.0",
   "authors": [
-    "Fabricio Quagliariello <matias.quaglia@gmail.com>"
+    "Fabricio Quagliariello"
   ],
   "main": "src/ng-teoria.js",
   "license": "MIT",
