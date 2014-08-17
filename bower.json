@@ -4,7 +4,7 @@
   "authors": [
     "Fabricio Quagliariello <matias.quaglia@gmail.com>"
   ],
-  "main": "src/https://raw.githubusercontent.com/github/gitignore/master/Node.gitignoreng-teoria.js",
+  "main": "src/ng-teoria.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
